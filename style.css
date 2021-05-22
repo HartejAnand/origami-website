@@ -1,11 +1,11 @@
 h1{
-    color:rgb(200,100,200);
+    color:#FF00FF
 }
 li{
-    color:rgb(0,0,100)
+    color: #000090
 }
 body{
-    background-color:rgb(200,200,0);
+    background-color: #FFFF00;
 }
 .menue{
     display: flex;
@@ -16,9 +16,9 @@ body{
     display: flex;
     flex-wrap: wrap;
     border: solid;
-    border-color: rgb(255,155,0);
+    border-color: #FF9000;
     border-radius: 0px;
-    background-color: rgb(200,200,100);
+    background-color: #fff350
     width: auto;
     padding-right: 100px;
     border-top-right-radius: 100px;
